@@ -34,8 +34,33 @@ Esta actividad permite comprender el manejo de puertos digitales completos, el u
 
 [![Vista previa de la caminata de 8 bits](./simulacion.png)](./video_funcionamiento.mp4)
 
+---
+
+## Evidencias físicas
 
 ---
+
+## Evidencias físicas
+
+La práctica también fue implementada físicamente en protoboard utilizando el microcontrolador **PIC16F887**. En el circuito se conectaron los LEDs a las salidas digitales del microcontrolador mediante resistencias, permitiendo observar el efecto de caminata directamente en el hardware.
+
+### Armado general
+
+![Armado general](./evidencias_fisicas/armado_general_01.jpeg)
+
+### Conexiones del microcontrolador
+
+![Conexiones del PIC16F887](./evidencias_fisicas/conexiones_pic.jpeg)
+
+
+### Video de funcionamiento físico
+
+[![Vista previa del circuito físico](./evidencias_fisicas/leds_funcionando_01.jpeg)](./evidencias_fisicas/video_fisico_funcionamiento.mp4)
+
+### Evidencias completas
+
+[Ver carpeta de evidencias físicas](./evidencias_fisicas)
+
 
 ## Funcionamiento del circuito
 
