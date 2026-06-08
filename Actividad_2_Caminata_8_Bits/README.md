@@ -91,49 +91,6 @@ Pendiente por agregar.
 
 ---
 
-## Código de referencia
-
-Este código puede utilizarse como base para una secuencia tipo caminata de 8 bits:
-
-```c
-#include <xc.h>
-
-//=============================================================================
-// CONFIGURACIÓN DE BITS DE CONFIGURACIÓN
-//=============================================================================
-
-#pragma config FOSC = XT
-#pragma config WDTE = OFF
-#pragma config PWRTE = OFF
-#pragma config BOREN = ON
-#pragma config LVP = OFF
-#pragma config CPD = OFF
-#pragma config WRT = OFF
-#pragma config CP = OFF
-
-//=============================================================================
-// DEFINICIONES
-//=============================================================================
-
-#define _XTAL_FREQ 8000000
-
-void main(void){
-    unsigned char i;
-
-    TRISD = 0b00000000;     // Configura PORTD como salida
-    PORTD = 0b00000000;     // Inicializa PORTD apagado
-
-    while(1){
-        for(i = 0; i < 8; i++){
-            PORTD = 1 << i; // Desplaza el bit encendido
-            __delay_ms(300);
-        }
-    }
-}
-```
-
----
-
 ## Resultado esperado
 
 Al ejecutar la simulación, se debe observar que los LEDs se encienden uno por uno de forma secuencial. El encendido inicia en el primer LED y avanza hasta llegar al octavo LED. Después, la secuencia se repite continuamente.
