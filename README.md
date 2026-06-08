@@ -1,1 +1,2 @@
-# Practica_1_Salidas_Digitales
+# Práctica 1: Salidas Digitales
+
