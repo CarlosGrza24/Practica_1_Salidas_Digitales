@@ -30,6 +30,8 @@ Esta práctica permitió comprender cómo configurar un puerto como salida digit
 
 ![Simulación LEDs encendidos](./simulacion_on.png)
 
+### Simulación en Proteus — LEDs apagados
+
 ![Simulación LEDs apagados](./simulacion_off.png)
 
 ---
