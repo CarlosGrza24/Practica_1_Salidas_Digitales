@@ -32,7 +32,7 @@ Esta actividad permite comprender el manejo de puertos digitales completos, el u
 
 ### Video de funcionamiento
 
-[![Vista previa de la caminata de 8 bits](./simulacion.png)](./video_funcionamiento.mp4)
+![Video de funcionamiento físico](./evidencias_fisicas/video_simulación_funcionamiento.gif)
 
 ---
 
