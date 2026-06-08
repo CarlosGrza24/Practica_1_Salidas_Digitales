@@ -50,7 +50,7 @@ El funcionamiento físico permite observar cómo el contador avanza desde `00000
 
 ### Conexiones del PIC16F887
 
-![Conexiones del PIC16F887](./evidencias_fisicas/conexiones_pic.jpeg)
+![Conexiones del PIC16F887](./evidencias_fisicas/armado_general_02_horizontal.jpeg)
 
 
 ### Video del funcionamiento físico
