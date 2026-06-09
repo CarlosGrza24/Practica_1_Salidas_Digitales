@@ -67,7 +67,8 @@ A continuación se muestran los números del contador decimal visualizados en el
 
 El siguiente enlace abre el video completo del contador decimal funcionando en Proteus.
 
-[Video de funcionamiento](./video_funcionamiento.mp4)
+[![Video de funcionamiento](./video_funcionamiento_10.gif)](./video_funcionamiento_10.mp4)
+
 
 ---
 
