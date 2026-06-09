@@ -45,7 +45,7 @@ Además de la simulación en Proteus, la práctica fue implementada físicamente
 
 El siguiente GIF muestra una vista previa del funcionamiento físico. Al dar clic sobre el GIF, se abre el video completo de la evidencia.
 
-[![Vista previa física matriz X](./evidencias_fisicas/video_funcionamientoX.gif)](./evidencias_fisicas/video_funcionamientoX.gif.mp4)
+[![Vista previa física matriz X](./evidencias_fisicas/video_funcionamientoX.gif)](./evidencias_fisicas/video_funcionamientoX.mp4)
 
 ### Carpeta completa de evidencias físicas
 
