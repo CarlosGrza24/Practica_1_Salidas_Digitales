@@ -46,11 +46,9 @@ A continuación se muestran las letras visualizadas en la matriz LED 8x8 durante
 
 ![Simulación letras en matriz](./simulacion_letras.png)
 
-### Video de funcionamiento
+### Video de funcionamiento en simulación
 
-El siguiente GIF muestra una vista previa de la simulación en Proteus. Al dar clic sobre el GIF, se abre el video completo del funcionamiento.
-
-[![Vista previa letras matriz](./letras_matriz_preview.gif)](./video_funcionamiento.mp4)
+[![Vista previa de letras en matriz](./video_funcionamiento_letras.mp4)
 
 ---
 
