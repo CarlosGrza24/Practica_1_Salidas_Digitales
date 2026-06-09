@@ -1,4 +1,4 @@
-# Práctica 1: Salidas Digitales
+# Microcontroladores - Prácticas
 En esta práctica se trabajó con el microcontrolador **PIC16F887**, utilizando **MPLAB X IDE**, lenguaje **C**, compilador **XC8** y simulaciones en **Proteus**.
 
 ## Actividades realizadas
