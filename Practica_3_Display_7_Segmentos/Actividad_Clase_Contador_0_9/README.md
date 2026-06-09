@@ -26,8 +26,6 @@ Esta práctica permitió reforzar el uso de salidas digitales, arreglos en lengu
 
 ---
 
-## Evidencias
-
 ### Simulación en Proteus
 
 A continuación se muestran los números del contador decimal visualizados en el display de 7 segmentos durante la simulación en Proteus.
@@ -74,7 +72,7 @@ El siguiente enlace abre el video completo del contador decimal funcionando en P
 
 ## Conexiones del PIC16F887
 
-
+![Armado físico de conexiones](./evidencias_fisicas/armado_general_09.jpeg)
 
 ---
 
