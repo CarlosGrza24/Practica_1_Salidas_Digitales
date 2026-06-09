@@ -60,8 +60,6 @@ Además de la simulación en Proteus, la práctica fue implementada físicamente
 
 ### Video del funcionamiento físico
 
-El siguiente GIF muestra una vista previa del funcionamiento físico. Al dar clic sobre el GIF, se abre el video completo de la evidencia.
-
 [![Vista previa física letras matriz](./evidencias_fisicas/letras_matriz_fisico.gif)](./evidencias_fisicas/video_fisico_letras_matriz.mp4)
 
 ### Carpeta completa de evidencias físicas
@@ -210,7 +208,7 @@ void main(void){
 
 ---
 
-## Resultado esperado
+## Resultados
 
 Al ejecutar el programa, la matriz LED 8x8 debe mostrar de manera secuencial las letras **I**, **F**, **L** y **O**. Cada letra debe permanecer visible durante un momento antes de cambiar a la siguiente.
 
