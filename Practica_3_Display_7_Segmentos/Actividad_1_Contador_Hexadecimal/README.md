@@ -83,17 +83,18 @@ A continuación se muestran los valores hexadecimales visualizados en el display
 
 ### Video de funcionamiento en simulación
 
-El siguiente enlace abre el video completo del contador hexadecimal funcionando en Proteus.
-
-[![Vista previa de letras en matriz](./video_funcionamiento_16.gif)](./video_funcionamiento_16.mp4)
+[![Vista de funcionamiento](./video_funcionamiento_16.gif)](./video_funcionamiento_16.mp4)
 
 ---
 
-## Funcionamiento del circuito
+## Conexiones PIC16F887
 
-En la simulación se conectó un display de 7 segmentos al puerto D del microcontrolador **PIC16F887**. Cada salida del puerto D controla un segmento del display mediante una resistencia de 240 Ω.
+![Armado físico](./evidencias_fisicas/armado_GENERAL_09.jpeg)
 
-El contador inicia en `0` y avanza hasta `F`. Para representar los caracteres hexadecimales, se utilizan patrones específicos para cada símbolo. En el caso de las letras, se usan representaciones compatibles con un display de 7 segmentos, por ejemplo `b` y `d` se muestran en minúscula para evitar confusión con los números 8 y 0.
+
+### Video de funcionamiento en físico
+
+[![Vista de funcionamiento](./video_fisico_16.gif)](./video_fisico_16.mp4)
 
 ---
 
