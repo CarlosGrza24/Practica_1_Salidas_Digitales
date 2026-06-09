@@ -29,13 +29,7 @@ Esta práctica permitió reforzar el uso de puertos digitales, arreglos de datos
 
 ### Simulación en Proteus
 
-![Simulación matriz X](./simulacion_x.png)
-
-### Video de funcionamiento
-
-El siguiente GIF muestra una vista previa de la simulación en Proteus. Al dar clic sobre el GIF, se abre el video completo del funcionamiento.
-
-[![Vista previa matriz X](./matriz_x_preview.gif)](./video_funcionamiento.mp4)
+![Simulación letras en matriz](./simulacion_letras.png)
 
 ---
 
@@ -51,7 +45,7 @@ Además de la simulación en Proteus, la práctica fue implementada físicamente
 
 El siguiente GIF muestra una vista previa del funcionamiento físico. Al dar clic sobre el GIF, se abre el video completo de la evidencia.
 
-[![Vista previa física matriz X](./evidencias_fisicas/matriz_x_fisico.gif)](./evidencias_fisicas/video_fisico_matriz_x.mp4)
+[![Vista previa física matriz X](./evidencias_fisicas/video_funcionamientoX.gif)](./evidencias_fisicas/video_funcionamientoX.gif.mp4)
 
 ### Carpeta completa de evidencias físicas
 
